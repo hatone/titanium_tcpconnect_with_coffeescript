@@ -3,7 +3,7 @@ Titanium.UI.setBackgroundColor '#000'
 win = Titanium.UI.createWindow
   title:'win1'
 textarea = Titanium.UI.createTextArea
-  value:'I love kyoro'
+  value:''
 win.add textarea
 win.open()
 
